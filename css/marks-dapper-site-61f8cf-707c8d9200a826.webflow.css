@@ -12020,6 +12020,10 @@ img {
     place-self: center stretch;
   }
 
+  #w-node-_2e700765-e721-6148-1493-11f6f72ae617-f72ae616 {
+    align-self: auto;
+  }
+
   #w-node-a482e513-bb31-92ee-508a-c6f9cf55dcd0-d4bce510 {
     place-self: center;
   }
@@ -12042,10 +12046,6 @@ img {
 
   #w-node-f1b30f7d-62a9-f47a-c8d3-b2a3b416dca8-d4bce510, #w-node-f1b30f7d-62a9-f47a-c8d3-b2a3b416dcc0-d4bce510 {
     align-self: center;
-  }
-
-  #w-node-_2e700765-e721-6148-1493-11f6f72ae617-f72ae616 {
-    align-self: auto;
   }
 }
 
